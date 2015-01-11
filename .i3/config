@@ -167,7 +167,7 @@ exec --no-startup-id firefox
 assign [class="Iceweasel"] 1
 
 # Spotify
-for_window [class="spotify"] floating enable
+for_window [class="Spotify"] floating enable
 assign [class="Spotify"] 3
 exec --no-startup-id spotify
 
